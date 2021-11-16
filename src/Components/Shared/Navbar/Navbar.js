@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             <span className="ms-2  text-warning custom-style p-2 ">
-              Fahim's car empire
+              Naz car empire
             </span>
           </Link>
           <button

@@ -48,7 +48,7 @@ const useFirebase = () => {
           displayName: name,
         });
         history.replace("/");
-
+        window.location.reload();
         console.log(result.user);
       })
 

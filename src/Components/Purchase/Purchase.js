@@ -55,7 +55,7 @@ const Purchase = () => {
               </div>
               <h3>Description of {newData.name}</h3>
               <p> {newData?.desc} </p>
-              <h3>Fahim's car empire benefits</h3>
+              <h3>Naz car benefits</h3>
               <ul>
                 <li>7 Days Money Back Guarantee</li>
                 <li>6 Months Comprehensive Warranty</li>
